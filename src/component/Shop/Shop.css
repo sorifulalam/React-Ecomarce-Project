@@ -1,10 +1,10 @@
 .shoop-container{
     display: grid;
-    grid-template-columns: 4fr 1fr;
+    grid-template-columns: 4fr 2fr;
 }
 .product-container{
     display: grid;
     grid-template-columns: repeat(3 , 1fr);
-    gap: 45px;
+    gap: 35px;
     margin: 40px;
 }

@@ -1,0 +1,11 @@
+.cart{
+    background-color: rgb(245, 209, 142);
+    padding: 20px;
+    margin-right: 20px;
+    margin-top: 40px;
+    border-radius: 10px;
+}
+
+.cart p{
+    font-size: 17px;
+}
